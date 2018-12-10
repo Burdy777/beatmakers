@@ -1,0 +1,1 @@
+mettre en place le footer et header, et adapté la logique pour leus première page , si oui ou non nous les voyons.
